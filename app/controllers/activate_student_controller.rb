@@ -1,0 +1,3 @@
+class ActivateStudentController < ApplicationController 
+  
+end 
